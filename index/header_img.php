@@ -1,0 +1,1 @@
+<img src="<?=SITE_TEMPLATE_PATH?>/img/logo.svg" alt="Лого сайта" width="390" height="74">
